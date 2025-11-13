@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/polyethylene16/polyethylene16/main/assets/github-contribution-grid-snake.svg)
